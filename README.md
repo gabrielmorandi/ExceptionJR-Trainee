@@ -18,7 +18,7 @@ Este projeto é um site simples que visa demonstrar meu conhecimento básico em 
 ### Recursos
 - Estrutura básica de uma página web
 - Uso de tags semânticas do HTML5
-- Estilização com CSS3, incluindo cores, fontes e posicionamento
+- Estilização com CSS3
 
 ## 2. To Do List
 
