@@ -1,4 +1,4 @@
-# ExceptionJR Trainee Selection - Repository
+# ExceptionJR-Trainee - Repository
 
 ### Visualização:
 Para visualizar os sites clique (aqui!)[https://gabrielmorandi.github.io/ExceptionJR-Trainee/]
