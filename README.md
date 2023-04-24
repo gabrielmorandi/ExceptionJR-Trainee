@@ -5,7 +5,7 @@ Olá! Este repositório foi criado como parte do processo seletivo para a posiç
 1. **HTML e CSS: Iniciante**
 2. **To Do List**
 
-Para visualizar os sites clique [aqui!](https://gabrielmorandi.github.io/ExceptionJR-Trainee/)
+Para visualizar os projetos clique [aqui!](https://gabrielmorandi.github.io/ExceptionJR-Trainee/)
 
 ## 1. HTML e CSS: Iniciante
 
