@@ -1,7 +1,7 @@
 # ExceptionJR-Trainee - Repository
 
 ### Visualização:
-Para visualizar os sites clique (aqui!)[https://gabrielmorandi.github.io/ExceptionJR-Trainee/]
+Para visualizar os sites clique [aqui!](https://gabrielmorandi.github.io/ExceptionJR-Trainee/)
 
 Olá! Este repositório foi criado como parte do processo seletivo para a posição de Trainee na empresa ExceptionJR. Aqui você encontrará dois projetos que demonstram minhas habilidades em HTML, CSS e JavaScript:
 
